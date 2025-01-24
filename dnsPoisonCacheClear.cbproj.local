@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/12/23 02:44:15.000.402,=C:\Users\CPP\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2024/12/23 02:44:15.000.109,=C:\Users\CPP\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/12/23 02:44:59.000.517,C:\Users\CPP\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\CPP\Documents\Embarcadero\Studio\Projects\dnsPoisonCacheClearPCH1.h</Transaction>
+    <Transaction>2024/12/23 02:44:59.000.520,C:\Users\CPP\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\CPP\Documents\Embarcadero\Studio\Projects\dnsPoisonCacheClear.cbproj</Transaction>
+    <Transaction>2024/12/23 02:45:12.000.285,C:\Users\CPP\Documents\Embarcadero\Studio\Projects\File1.cpp=C:\Users\CPP\Documents\Embarcadero\Studio\Projects\dnsPoisonCacheClear.cpp</Transaction>
+    <Transaction>2024/12/23 02:45:17.000.047,C:\Users\CPP\Documents\Embarcadero\Studio\Projects\dnsPoisonCacheClear.cbproj=C:\Users\CPP\Documents\Embarcadero\Studio\Projects\dnsPoisonCacheClear.cbproj</Transaction>
+    <Transaction>2024/12/23 02:45:56.000.146,C:\Users\CPP\Documents\Embarcadero\Studio\Projects\dnsPoisonCacheClearPCH1.h=C:\Users\CPP\Documents\Embarcadero\Studio\Projects\dnsPoisonCacheClear.h</Transaction>
+  </Transactions>
+</BorlandProject>
